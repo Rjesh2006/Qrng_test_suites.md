@@ -3,10 +3,10 @@
 ## Test Cases
 
 ### Definition
-A test case is a detailed set of instructions or steps that a tester follows to verify a specific aspect of software functionality.
+*A test case is a detailed set of instructions or steps that a tester follows to verify a specific aspect of software functionality.*
 
 ### Purpose
-Test cases help ensure that the software behaves as expected under various conditions.
+*Test cases help ensure that the software behaves as expected under various conditions.*
 
 ### Components
 1. **Preconditions:** Conditions that must be met before executing the test case.
@@ -22,18 +22,18 @@ Test cases help ensure that the software behaves as expected under various condi
 **Expected Result:** User successfully logs in.
 
 ### Use Cases
-Describe here the specific use cases related to the test cases, if applicable.
+*Describe here the specific use cases related to the test cases, if applicable.*
 
 ### Application Details
-Provide information about the application under test, such as its purpose, features, and technology stack.
+*Provide information about the application under test, such as its purpose, features, and technology stack.*
 
 ### Provider
-Specify the provider or organization responsible for providing the test cases and their types.
+*Specify the provider or organization responsible for providing the test cases and their types.*
 
 ## Test Suites
 
 ### Definition
-A test suite is a collection of related test cases grouped together for efficient execution.
+*A test suite is a collection of related test cases grouped together for efficient execution.*
 
 ### Purpose
 - Organize test cases logically.
@@ -53,13 +53,13 @@ A test suite is a collection of related test cases grouped together for efficien
 - "Forgot password functionality"
 
 ### Use Cases
-Describe here the specific use cases related to the test suite, if applicable.
+*Describe here the specific use cases related to the test suite, if applicable.*
 
 ### Application Details
-Provide information about the application under test, such as its purpose, features, and technology stack.
+*Provide information about the application under test, such as its purpose, features, and technology stack.*
 
 ### Provider
-Specify the provider or organization responsible for providing the test suites and their types.
+*Specify the provider or organization responsible for providing the test suites and their types.*
 
 
 
