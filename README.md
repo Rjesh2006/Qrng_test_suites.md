@@ -12,6 +12,8 @@
 
 ### Importance of Test Cases
 
+## why test case's matter:
+
 Test cases are essential for ensuring the quality of a software application. Below are some points highlighting their significance:
 
 - **Identification of Defects and Bugs:** Test cases help in identifying defects and bugs in the software application.
@@ -27,7 +29,6 @@ Test cases are essential for ensuring the quality of a software application. Bel
 - **Guide for Developers:** Test cases act as a guide for developers to fix defects and errors.
 
 - **Cost Reduction:** Test cases help reduce software development costs by detecting defects early in the development lifecycle.
-
 
 
 
