@@ -5,7 +5,7 @@
 ### Definition
 *A test case is a detailed set of instructions or steps that a tester follows to verify a specific aspect of software functionality.*
 
-### Purpose
+### Purpose     
 *Test cases help ensure that the software behaves as expected under various conditions.*
 
 ### Components
